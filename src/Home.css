@@ -1,0 +1,28 @@
+.HomeBackground{
+    margin-top: 100px;
+    height: 500px;
+}
+
+.bgImg{
+    
+    
+    background-image: url(../public/images/HomePageBackGround.png);
+    background-position: center; 
+    background-size: cover;
+    display: flex;
+    
+    
+}
+.bgHeading{
+    
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    flex-direction: column;
+    /* align-content: center; */
+}
+h1{
+    font-size:xx-large;
+    font-weight: bolder;
+    
+}

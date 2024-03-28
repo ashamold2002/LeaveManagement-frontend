@@ -1,0 +1,25 @@
+.side-nav{
+    margin-top: 50px;
+}
+
+.text{
+   padding-top: 30px;
+   /* padding-left: 30px; */
+   
+}
+.container-body{
+    margin-top: 100px;
+}
+.cardImg{
+    width:200px;
+    height: 200px;
+    border: 2px solid #0073e6;
+    margin-left: 30px;
+}
+/* h5{
+    padding-left: 5px;
+}
+  */
+/* .sidebar-content{
+    row-gap: 20px;
+} */
